@@ -26,6 +26,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "dell",
+			"description": "CDN for dell downloads",
+			"domain_files": ["dell.txt"]
+		},
+		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
