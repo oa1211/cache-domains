@@ -1,1 +1,4 @@
 downloads.dell.com
+*.downloads.dell.com
+dl.dell.com
+*.dl.dell.com
