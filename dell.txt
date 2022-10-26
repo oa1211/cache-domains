@@ -1,4 +1,3 @@
-dell.com
 *.dell.com
 dellcdn.com
 *.dellcdn.com
